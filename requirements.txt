@@ -1,0 +1,6 @@
+rpy2>=3.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.11.0
+cython>=3.0.0
+biom-format>=2.1.0
